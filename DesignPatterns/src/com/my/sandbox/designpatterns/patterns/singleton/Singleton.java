@@ -1,4 +1,4 @@
-package com.my.sandbox.designpatterns.patterns;
+package com.my.sandbox.designpatterns.patterns.singleton;
 
 public class Singleton {
 	
